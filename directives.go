@@ -1,5 +1,6 @@
 package graphql
 
+// test fork
 const (
 	// Operations
 	DirectiveLocationQuery              = "QUERY"
